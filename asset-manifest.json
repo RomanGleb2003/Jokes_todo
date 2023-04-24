@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jokes_todo/static/css/main.abd64e84.css",
+    "main.js": "/Jokes_todo/static/js/main.2ff5d91b.js",
+    "static/js/787.458565a0.chunk.js": "/Jokes_todo/static/js/787.458565a0.chunk.js",
+    "index.html": "/Jokes_todo/index.html",
+    "main.abd64e84.css.map": "/Jokes_todo/static/css/main.abd64e84.css.map",
+    "main.2ff5d91b.js.map": "/Jokes_todo/static/js/main.2ff5d91b.js.map",
+    "787.458565a0.chunk.js.map": "/Jokes_todo/static/js/787.458565a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.2ff5d91b.js"
+  ]
+}
